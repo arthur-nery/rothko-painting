@@ -1,2 +1,2 @@
-# Photo Gallery
-This project consists of learning more about the flexbox property and applying it in a photo gallery. 
+# Rothko Painting
+This project focus on studying and learning CSS properties while building a static site with a paint of Rothko.
